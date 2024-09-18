@@ -1,0 +1,115 @@
+
+body{
+    background-color: black;
+    
+}
+.box1{
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+    height: 60px;
+    
+}
+ul{
+    float: left;
+   text-decoration: none; 
+   list-style-type: none;
+}
+li{
+    float: left;
+    position: relative;
+    left: 325%;
+    width: 100px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    margin-top: 1px;
+    color: black;
+    margin-top: 7px 12px;
+    position: relative;
+    left: -22%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    padding-bottom: 10px;
+
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-weight: 900;
+}
+h3{
+  color: white;  
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: xx-large;
+  align-items: center;
+  
+}
+.wallpaper{
+    width: 1332px;
+    height: 800px;
+    padding-bottom: 00px;
+    
+}
+.plain{
+align-items: center;
+padding-left: 0px;
+
+}
+.whitetee{
+    width:500px;
+    padding-left: 150px;
+}
+.blacktee{
+    width: 500px;
+}
+.classicmodels{
+    width: 100%;
+}
+.sports{
+    align-items: center;
+    display: flex;
+    
+    
+}
+.jersey1{
+    width: 69%;
+    padding-left: 80px;
+    
+}
+.jersey2{
+    width: 75%;
+}
+.sports2{
+display: flex;
+align-items: center;
+}
+.shorts{
+    text-align: center;
+    margin-right: 150px;
+}
+.socks{
+    margin-right: 150px;
+}
+.jersey3{
+    width: 69%;
+    padding-left: 105px;
+}
+.jersey4{
+    width: 75%;
+    align-items: center;
+    
+}   
+.modelsforsports{
+    width: 100%;
+}
